@@ -1,5 +1,7 @@
 # COMP206
+
 ## Table of Content:
+
 - [Web Architecture](#web-architecture)
 - [JavaScript Fundamentals](#javascript-fundamentals)
 - [Working with JS Arrays](#working-with-js-arrays)
