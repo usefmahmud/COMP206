@@ -1,4 +1,4 @@
-import { Heading, ListItem, Slide, SlideLayout } from "spectacle"
+import { Heading, Slide } from "spectacle"
 
 const Slide1 = () => {
   return (
